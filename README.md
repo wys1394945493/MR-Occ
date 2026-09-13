@@ -34,11 +34,7 @@ Download the [nuScenes dataset](https://www.nuscenes.org/nuscenes) and the
 semantic occupancy labels provided by
 [SurroundOcc](https://github.com/weiyithu/SurroundOcc).
 
-Download the pre-generated annotation files (or refer to
-[SuperOcc](https://github.com/Daniel-xsy/SuperOcc) for data preparation):
-
-- [nuscenes_infos_train_sweep.pkl]()
-- [nuscenes_infos_val_sweep.pkl]()
+Refer to [SuperOcc](https://github.com/Daniel-xsy/SuperOcc) for data preparation.
 
 Place both files in the annotation directory and set `ann_root` in the configuration files to that directory.
 
