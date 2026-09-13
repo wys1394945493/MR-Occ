@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+checkpoints/*.pth
+data/
+third_party/
+work_dirs/
+out/

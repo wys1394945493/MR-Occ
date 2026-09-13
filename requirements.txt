@@ -1,0 +1,16 @@
+torch==2.1.1
+torchvision==0.16.1
+mmcv==2.1.0
+mmdet==3.3.0
+mmdet3d==1.4.0
+mmengine==0.10.7
+einops==0.8.0
+kornia==0.8.2
+matplotlib==3.9.1
+ninja==1.13.0
+numpy==1.23.5
+nuscenes-devkit==1.2.0
+opencv-python==4.11.0.86
+Pillow==10.4.0
+safetensors==0.7.0
+terminaltables==3.1.10
